@@ -1,0 +1,67 @@
+﻿list name,name,label::English,label::Kiswahili
+choices_seed_type,1,DK1,DK1
+choices_seed_type,2,Stuka,Stuka
+choices_seed_type,3,TMV,TMV
+choices_seed_type,4,Kilima,Kilima
+choices_seed_type,5,Staha,Staha
+choices_seed_type,6,Seedco,Seedco
+choices_seed_type,7,Pioneer,Pioneer
+choices_seed_type,8,Other,Nyingine
+choices_seed_type,9,From last harvest,Mbegu za mavuno ya mwaka jana
+choices_seed_type,99,Don't know,Sijui
+choices_intercropped,1,Maize only,Mahindi tu
+choices_intercropped,2,Intercropped,Na zao jingine
+choices_intercropped,99,Don’t Know,Sijui
+choices_water_stress,1,Yes,Ndiyo
+choices_water_stress,2,No,Hapana
+choices_water_stress,99,Don't know,Sijui
+choices_drought_period,1,Soon after planting,baada tu ya kupanda
+choices_drought_period,2,Middle of the season,kati kati ya msimu
+choices_drought_period,3,Maturing stage,wakati yanakomaa
+choices_drought_period,99,Don't know,Sijui
+choices_pest_problem,1,Yes,Ndiyo
+choices_pest_problem,2,No,Hapana
+choices_pest_problem,99,Don't know,Sijui
+choices_pest_pressure,1,Worse than usual,mbaya zaidi
+choices_pest_pressure,2,Normal,kawaida
+choices_pest_pressure,3,Better than usual,nzuri zaidi
+choices_pest_pressure,99,Don't know,sijui
+choices_maize_maturity,1,Yes,Ndiyo
+choices_maize_maturity,2,No,Hapana
+choices_maize_maturity,99,Don't know,Sijui
+choices_mature_rain,1,Yes,Ndiyo
+choices_mature_rain,2,No,Hapana
+choices_mature_rain,99,Don't know,Sijui
+choices_maize_dry,1,Yes,Ndiyo
+choices_maize_dry,2,No,Hapana
+choices_maize_dry,99,Don't know,Sijui
+choices_dried_rain,1,Yes,Ndiyo
+choices_dried_rain,2,No,Hapana
+choices_dried_rain,99,Don't know,Sijui
+choices_maize_shelled,1,Before drying,Kabla ya kukauka
+choices_maize_shelled,2,After drying,Baada ya kukauka
+choices_maize_shelled,3,"Dried partially, shelled, dried again","Yalikauka kidogo, yakapukuchuliwa, yakakaushwa tena"
+choices_maize_shelled,99,Don't know,Sijui
+choices_drying_place,1,On ground,Kwenye udongo
+choices_drying_place,2,On plastic/mat,Kwenye chandarua/mifuko/viroba
+choices_drying_place,3,In granary,Katika ghala
+choices_drying_place,4,On floor inside house,Ndani ya nyumba kwenye ardhi
+choices_drying_place,5,Other,Nyingine
+choices_drying_place,99,Don't know,Sijui
+choices_maize_storage,1,In polypropylene bags,Kwenye viroba/magunia ya kawaida
+choices_maize_storage,2,PICS bags,Mifuko ya PICS
+choices_maize_storage,3,Traditional granary,Ghala ya kienyeji
+choices_maize_storage,4,Modern silo,Ghala la kisasa
+choices_maize_storage,5,Used insecticide,Waliweka dawa za kuzuia wadudu
+choices_maize_storage,6,Other,Nyingine
+choices_maize_storage,99,Don't know,Sijui
+choices_sort_maize,1,Winnow after shelling,Kupepeta baada ya kupukuchua
+choices_sort_maize,2,Winnow before milling,Kupepeta kabla ya kusaga
+choices_sort_maize,3,Hand sort before milling,Kuchambua kabla ya kusaga
+choices_sort_maize,4,Other,Nyingine
+choices_sort_maize,99,Don't know,Sijui
+choices_flour_type,1,Whole grain flour,Dona
+choices_flour_type,2,Sifted flour,Sembe
+choices_flour_type,3,Decorticated,Sembe-Dona
+choices_flour_type,4,Other,Nyingine
+choices_flour_type,99,Don't know,Sijui

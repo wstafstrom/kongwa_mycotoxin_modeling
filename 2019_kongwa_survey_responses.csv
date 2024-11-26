@@ -1,0 +1,343 @@
+﻿collection_date,day,month,year,grain_mill_id,sample_id,planting_month,planting_dekad,harvest_month,harvest_dekad,seed_type,other_seed_type,intercropped,intercrop_crop,number_intercrop,fertilizer,water_stress,drought_period,pest_pressure,maize_maturity,mature_rain,maize_dry,dried_rain,maize_shelled,drying_place,other_drying_place,maize_storage_merged,sort_maize_merged,flour_type,sample_lost_yes-1_no-0,mill_lat,mill_long,mill_village,mill_ward
+17/05/19,17,5,2019,1,1,1,1901,5,1914,8,NA,2,Cowpea,1,NA,1,2,2,1,2,1,2,2,"2, 5",Nje,bags,winnow,2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,2,12,1836,5,1913,8,NA,2,Sorghum,1,NA,1,1,2,1,1,1,1,2,"2, 5",Nje,bags,winnow,2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,3,1,1901,5,1914,NA,NA,2,Sunflower,1,NA,1,2,3,1,1,1,1,2,5,"Shambani. Kuvuna, kupuchua na kusaga.",none,"winnow, sort",2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,4,12,1836,5,1914,8,NA,2,"Pumpkin, Sunflower",2,NA,1,2,3,1,1,1,1,2,5,Shambani,none,"winnow, sort",2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,5,12,1836,5,1914,8,NA,1,NA,0,NA,1,2,2,1,1,1,1,3,"2, 5",Nje,none,"winnow, sort",2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,6,12,1835,5,1913,8,NA,1,NA,0,NA,1,"1, 2, 3",1,1,1,1,1,1,"1, 4",NA,bags,winnow,2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,7,12,1836,5,1913,2,NA,1,NA,0,NA,1,"1, 2",1,1,1,1,1,2,5,NA,bags,"winnow, sort",2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,8,1,1901,5,1914,8,NA,2,Groundnut,1,NA,1,1,2,1,1,1,1,2,2,NA,bags,"winnow, sort",1,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,9,1,1901,5,1914,8,NA,2,Sunflower,1,NA,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",1,0,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,1,10,1,1901,4,1912,"8, 9","""Ndefu"" aina",2,NA,NA,1,1,"1, 2, 3",3,1,2,1,2,2,2,NA,bags,"winnow, sort",2,1,-6.266411366,36.6488248,Iduo,Iduo
+17/05/19,17,5,2019,2,1,12,NA,5,1914,8,NA,2,"Sorghum, Sunflower",2,NA,1,2,2,1,1,1,1,2,5,Yalivunwa na kuletwa kusaga.,none,"winnow, sort",2,1,-6.266841338,36.64523011,Iduo,Iduo
+17/05/19,17,5,2019,2,2,12,NA,5,1914,8,NA,2,Sorghum,1,NA,1,2,2,1,1,1,1,3,"2, 4",NA,none,"winnow, sort",1,1,-6.266841338,36.64523011,Iduo,Iduo
+17/05/19,17,5,2019,2,3,1,1901,5,1914,8,NA,2,Sorghum,1,NA,1,2,2,1,1,1,1,2,5,NA,bags,"winnow, sort",2,1,-6.266841338,36.64523011,Iduo,Iduo
+17/05/19,17,5,2019,2,4,1,1901,5,1913,"8, 9","""Ndogo""",1,NA,0,NA,1,2,3,1,1,1,1,2,2,NA,bags,"winnow, sort",2,1,-6.266841338,36.64523011,Iduo,Iduo
+17/05/19,17,5,2019,2,5,12,1835,5,1913,8,NA,2,Sorghum,1,NA,1,2,2,1,1,1,1,2,2,NA,bags,"winnow, sort",2,1,-6.266841338,36.64523011,Iduo,Iduo
+18/05/19,18,5,2019,3,1,12,NA,5,1914,8,NA,2,Beans,1,3,2,NA,3,1,1,1,1,3,"2, 5",nje,none,"winnow, sort",2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,3,2,1,1902,5,1914,8,NA,1,NA,0,3,1,3,2,1,1,2,NA,3,1,NA,none,"winnow, sort",2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,3,3,12,NA,5,1914,8,NA,2,Beans,1,3,1,"1, 2",2,1,1,1,1,3,"2, 5",nje,none,"winnow, sort",2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,3,4,12,NA,5,1914,8,NA,2,Beans,1,3,1,2,3,1,1,2,NA,3,"2, 5",nje,none,"winnow, sort",2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,3,5,1,NA,5,1914,8,NA,2,Sunflower,1,3,1,3,3,1,1,1,1,2,5,yamevunwa yakiwa yamekauka,tarp,none,2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,3,6,1,NA,5,1914,8,NA,2,Sorghum,1,3,1,2,2,1,1,2,NA,1,"2, 5",nje,none,none,2,1,-6.316180474,36.82885846,Nghumbi,Mlali
+18/05/19,18,5,2019,4,1,11,1833,5,1914,8,ndogo,1,NA,0,1,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.316355751,36.83252112,Nghumbi,Mlali
+18/05/19,18,5,2019,4,2,1,1901,5,1913,8,nyepesi,1,NA,0,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.316355751,36.83252112,Nghumbi,Mlali
+18/05/19,18,5,2019,4,3,12,1834,5,1914,8,nyepesi,1,NA,0,3,1,2,2,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.316355751,36.83252112,Nghumbi,Mlali
+18/05/19,18,5,2019,5,1,1,NA,5,1914,8,NA,1,NA,0,3,1,"2, 3",2,1,1,2,NA,3,"2, 5",nje,none,"winnow, sort",2,1,-6.290227057,36.7501645,Mlali,Mlali
+18/05/19,18,5,2019,5,2,1,NA,5,1914,NA,NA,1,NA,0,1,1,2,2,1,2,1,2,2,5,hayajakaushwa tena,granary,"winnow, sort",2,1,-6.290227057,36.7501645,Mlali,Mlali
+18/05/19,18,5,2019,5,3,12,NA,5,1914,8,NA,2,Pigeon Pea,1,3,1,2,1,1,1,2,1,3,"2, 5",nje kwenye jua,none,"winnow, sort",2,1,-6.290227057,36.7501645,Mlali,Mlali
+18/05/19,18,5,2019,5,4,12,NA,5,1913,8,NA,2,"Pigeon Pea, Pumpkin, Cowpea",3,3,1,2,3,1,1,2,NA,3,1,NA,bags,"winnow, sort",2,0,-6.290227057,36.7501645,Mlali,Mlali
+18/05/19,18,5,2019,5,5,1,NA,5,NA,8,NA,2,"Okra, Pigeon Pea",2,3,1,2,2,1,1,2,NA,3,1,NA,none,"winnow, sort",2,1,-6.290227057,36.7501645,Mlali,Mlali
+18/05/19,18,5,2019,6,1,12,NA,5,1914,8,NA,2,"Groundnut, Sorghum, Sunflower",3,3,1,"2, 3",1,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-6.123876677,36.65309281,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,6,2,12,NA,5,1914,8,NA,2,"Groundnut, Sorghum, Sunflower",3,3,1,"2, 3",1,1,1,2,NA,1,1,NA,bags,"winnow, sort",1,1,-6.123876677,36.65309281,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,6,3,12,NA,5,1914,8,NA,2,Pigeon Pea,1,3,1,"1, 2",1,1,1,2,NA,3,"2, 5",nje,bags,"winnow, sort",1,1,-6.123876677,36.65309281,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,6,4,12,NA,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",1,1,1,2,NA,1,2,NA,none,none,2,1,-6.123876677,36.65309281,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,6,5,1,NA,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,1,1,"1, 2",1,1,1,2,NA,1,"2, 5",nje juani,none,"winnow, sort",2,1,-6.123876677,36.65309281,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,7,1,12,1836,5,1913,"8, 9","Kibaigwa market, doesn't know name",2,Pigeon Pea,1,1,1,"2, 3",1,1,1,1,1,1,2,NA,granary,"winnow, sort",2,1,-6.128026,36.652712,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,7,2,12,1836,5,1913,"8, 9","Kibaigwa market, doesn't know name",2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,bags,winnow,2,1,-6.128026,36.652712,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,7,3,12,1836,5,1914,8,NA,2,Sunflower,1,3,1,"1, 2, 3",1,1,1,1,1,2,2,NA,bags,"winnow, sort",1,1,-6.128026,36.652712,Kibaigwa,Kibaigwa
+18/05/19,18,5,2019,7,4,12,1834,5,1914,"8, 9",ndogo,2,"Pigeon Pea, Sunflower ",2,1,1,2,3,1,1,1,1,1,1,NA,bags,"winnow, sort",1,0,-6.128026,36.652712,Kibaigwa,Kibaigwa
+20/05/19,20,5,2019,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,-6.258757649,36.83666629,Pembamoto,Mlali
+20/05/19,20,5,2019,8,2,12,1834,5,1914,8,NA,2,Sunflower,1,3,1,2,2,1,1,2,1,2,4,NA,none,"winnow, sort",2,0,-6.258757649,36.83666629,Pembamoto,Mlali
+20/05/19,20,5,2019,8,3,12,1836,5,1913,8,NA,1,NA,0,3,1,2,3,2,NA,2,NA,1,1,NA,baskets,winnow,4,0,-6.258757649,36.83666629,Pembamoto,Mlali
+20/05/19,20,5,2019,8,4,12,1834,5,1914,"8, 9",Ndogo,2,Sunflower,1,3,1,2,1,1,1,1,1,1,2,NA,baskets,"winnow, sort",4,0,-6.258757649,36.83666629,Pembamoto,Mlali
+20/05/19,20,5,2019,9,1,1,1901,5,1914,8,NA,2,Sunflower,1,1,1,"1, 3",2,1,1,2,1,3,2,NA,bags,"winnow, sort",2,1,-6.26046,36.839213,Pembamoto,Mlali
+20/05/19,20,5,2019,9,2,1,1901,5,1914,8,NA,2,Sunflower,1,1,1,2,2,1,1,1,1,2,5,Na,bags,"winnow, sort",2,1,-6.26046,36.839213,Pembamoto,Mlali
+20/05/19,20,5,2019,9,3,1,1901,5,1914,8,NA,2,Sunflower,1,1,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,NA,NA,2,0,-6.26046,36.839213,Pembamoto,Mlali
+20/05/19,20,5,2019,9,4,1,1901,5,1914,8,NA,2,Sunflower,1,1,1,2,2,1,1,2,1,3,2,NA,none,"winnow, sort",2,0,-6.26046,36.839213,Pembamoto,Mlali
+20/05/19,20,5,2019,9,5,1,1901,5,1914,8,NA,2,"Sorghum, Sunflower",2,3,1,2,2,1,1,1,1,2,5,NA.,none,"winnow, sort",2,0,-6.26046,36.839213,Pembamoto,Mlali
+20/05/19,20,5,2019,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,none,"winnow, sort",NA,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,10,2,1,1901,5,1913,8,NA,1,NA,0,3,1,"1, 3",2,1,1,1,1,2,2,NA,NA,NA,2,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,10,3,12,1834,5,1913,8,NA,1,NA,0,3,1,2,2,1,1,1,1,2,4,NA,bags,"winnow, sort",2,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,10,4,12,1834,5,1914,8,NA,2,Chickpea,1,3,1,2,2,1,1,2,1,3,2,NA,floor,"winnow, sort",2,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,10,5,1,1901,5,1914,8,NA,1,NA,0,3,1,2,3,1,1,2,1,1,2,NA,none,"winnow, sort",2,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,10,6,12,1835,5,1914,8,NA,2,"Pigeon Pea, Sunflower ",2,3,1,"1, 2",2,1,1,2,1,1,1,NA,NA,NA,2,1,-6.175524289,36.81153669,Moleti,Pandambili
+20/05/19,20,5,2019,11,1,12,1834,5,1914,8,NA,2,Sunflower,1,3,1,2,1,1,1,1,1,1,1,NA,none,"winnow, sort",4,0,-6.175272067,36.81033536,Moleti,Pandambili
+20/05/19,20,5,2019,11,2,12,1835,5,1914,9,Soko normal seeds,2,Sunflower,1,3,1,2,3,2,NA,2,NA,1,1,NA,ground,"winnow, sort",4,0,-6.175272067,36.81033536,Moleti,Pandambili
+20/05/19,20,5,2019,11,3,12,1836,5,1914,8,NA,2,Pigeon Pea,1,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",4,0,-6.175272067,36.81033536,Moleti,Pandambili
+20/05/19,20,5,2019,11,4,1,1901,5,1914,8,NA,2,Pigeon Pea,1,3,1,2,3,1,1,1,1,1,1,NA,bags,"winnow, sort",4,0,-6.175272067,36.81033536,Moleti,Pandambili
+20/05/19,20,5,2019,11,5,12,1834,5,1914,8,NA,2,Sunflower,1,3,1,2,3,2,NA,2,NA,1,1,NA,bags,sort,4,0,-6.175272067,36.81033536,Moleti,Pandambili
+20/05/19,20,5,2019,12,1,1,1901,5,1913,8,NA,2,Pigeon Pea,1,3,1,"1, 2",2,1,1,2,NA,3,2,NA,bags,"winnow, sort",2,0,-6.142693254,36.74846874,Lengaji,Pandambili
+20/05/19,20,5,2019,13,1,12,1836,4,1910,"8, 9",Ndogo,2,"Red Sorghum, Pigeon Pea, Sunflower",3,3,1,"2, 3",2,2,NA,2,NA,1,1,NA,bags,"winnow, sort",4,0,-6.122935712,36.74597763,Lengaji,Pandambili
+20/05/19,20,5,2019,13,2,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,"1, 2, 3",3,1,2,1,2,1,1,NA,bags,"winnow, sort",1,1,-6.122935712,36.74597763,Lengaji,Pandambili
+21/05/19,21,5,2019,14,1,12,1836,5,1914,8,NA,2,"Beans, Pigeon Pea",2,3,1,"2, 3",3,1,1,1,1,3,1,NA,bags,"winnow, sort",2,1,-6.250655778,36.54711082,Sagara A,Sagara
+21/05/19,21,5,2019,14,2,12,1836,5,1914,8,NA,2,NA,NA,3,1,"2, 3",2,1,2,1,2,3,1,NA,plastic_container,winnow,2,1,-6.250655778,36.54711082,Sagara A,Sagara
+21/05/19,21,5,2019,14,3,12,1834,5,1914,8,NA,2,Beans,1,3,1,"2, 3",3,1,2,2,1,3,1,Nje,none,"winnow, sort",2,1,-6.250655778,36.54711082,Sagara A,Sagara
+21/05/19,21,5,2019,14,4,1,1901,5,1914,8,NA,2,Beans,1,3,1,"2, 3",2,1,1,2,1,3,2,NA,none,none,2,0,-6.250655778,36.54711082,Sagara A,Sagara
+21/05/19,21,5,2019,14,5,10,1828,5,1914,"8, 9",Nyepesi,2,Beans,1,3,1,2,2,1,1,2,NA,2,2,NA,NA,NA,4,0,-6.250655778,36.54711082,Sagara A,Sagara
+21/05/19,21,5,2019,15,1,1,1901,4,1912,6,NA,1,NA,0,3,1,"2, 3",3,1,2,1,2,2,1,NA,none,"winnow, sort",2,1,-6.246071083,36.57424453,Ijaka,Sagara
+21/05/19,21,5,2019,16,1,12,1836,5,1913,5,NA,2,Pumpkin,1,3,1,2,1,1,1,1,1,2,2,NA,NA,NA,2,1,-6.249147765,36.53862865,Sagara B,Sagara
+21/05/19,21,5,2019,17,1,12,1834,4,1912,NA,NA,2,"Sunflower, Pumpkin",2,3,1,"2, 3",2,1,1,1,1,3,2,NA,none,"winnow, sort",2,1,-6.245691836,36.57580577,Ijaka,Sagara
+21/05/19,21,5,2019,17,2,1,1901,5,1914,8,NA,1,NA,0,3,1,2,1,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-6.245691836,36.57580577,Ijaka,Sagara
+21/05/19,21,5,2019,17,3,12,1835,4,1912,8,NA,2,"Sunflower, Pumpkin",2,3,1,"2, 3",3,2,NA,1,1,3,"1, 5",Nje,none,"winnow, sort",2,0,-6.245691836,36.57580577,Ijaka,Sagara
+21/05/19,21,5,2019,18,1,12,1834,5,1914,8,NA,2,"Sorghum, Sunflower",2,3,1,"2, 3",1,1,1,1,1,3,2,NA,bags,"winnow, sort",2,1,-6.322671542,36.67164217,Chamkoroma,Chamkoroma
+21/05/19,21,5,2019,18,2,12,1836,5,1914,8,NA,1,NA,0,3,1,"2, 3",1,1,1,1,1,3,2,NA,bags,none,2,1,-6.322671542,36.67164217,Chamkoroma,Chamkoroma
+21/05/19,21,5,2019,19,1,12,1836,4,1912,9,Nyepesi,1,NA,0,3,1,2,3,1,1,1,1,1,1,NA,NA,NA,2,1,-6.319204255,36.67453627,Chamkoroma,Chamkoroma
+21/05/19,21,5,2019,19,2,12,1835,5,1914,"8, 9",Ilonga bunzi nyekundi,2,"Groundnut, Sunflower",2,3,1,2,2,1,1,1,1,1,2,NA,bags,winnow,2,1,-6.319204255,36.67453627,Chamkoroma,Chamkoroma
+21/05/19,21,5,2019,19,3,11,1832,5,1914,"8, 9",Ndogo,2,Sunflower,1,3,2,NA,1,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.319204255,36.67453627,Chamkoroma,Chamkoroma
+21/05/19,21,5,2019,19,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,-6.319204255,36.67453627,Chamkoroma,Chamkoroma
+22/05/19,22,5,2019,20,1,1,1901,5,1913,8,NA,2,"Sunflower, Sorghum, Pigeon Pea",3,3,1,2,1,1,1,2,1,1,2,NA,bags,none,1,1,-5.8913075,36.3404543,Banyibanyi,Hogoro
+22/05/19,22,5,2019,20,2,12,1834,5,1915,8,NA,2,NA,NA,3,1,"2, 3",2,1,1,2,1,3,1,NA,NA,NA,1,1,-5.8913075,36.3404543,Banyibanyi,Hogoro
+22/05/19,22,5,2019,20,3,1,1901,5,1915,8,NA,2,Sunflower,1,3,1,2,2,1,1,2,1,1,2,NA,granary,"winnow, sort",1,1,-5.8913075,36.3404543,Banyibanyi,Hogoro
+22/05/19,22,5,2019,20,4,1,1902,5,1914,8,NA,1,NA,0,1,1,2,1,1,1,1,1,1,5,None,none,"winnow, sort",1,1,-5.8913075,36.3404543,Banyibanyi,Hogoro
+22/05/19,22,5,2019,20,5,12,1836,5,1914,8,NA,2,Sesame,1,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.8913075,36.3404543,Banyibanyi,Hogoro
+22/05/19,22,5,2019,21,1,12,1835,5,1914,8,NA,1,NA,0,3,1,"2, 3",3,1,1,1,1,1,5,None,bags,"winnow, sort",2,1,-5.882690337,36.33851354,Banyibanyi,Hogoro
+22/05/19,22,5,2019,21,2,12,1836,5,1914,"9, 8",Purchased from neighbor,2,Sorghum,1,3,1,2,3,2,NA,2,NA,1,1,NA,NA,NA,1,1,-5.882690337,36.33851354,Banyibanyi,Hogoro
+22/05/19,22,5,2019,22,1,12,1836,5,1915,8,NA,2,NA,NA,3,1,2,2,1,1,2,1,1,2,NA,bags,"winnow, sort",1,1,-5.8996575,36.3416673,Banyibanyi,Hogoro
+22/05/19,22,5,2019,22,2,12,1836,5,1914,8,NA,2,"Sorghum, Sunflower",2,3,1,2,2,1,1,2,1,1,2,NA,NA,NA,1,1,-5.8996575,36.3416673,Banyibanyi,Hogoro
+23/05/19,23,5,2019,23,1,12,1836,5,1914,8,NA,2,Sunflower,1,1,1,2,2,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.181982061,36.71107343,Vihingo,Pandambili
+23/05/19,23,5,2019,23,2,12,1835,5,1914,8,NA,2,"Sunflower, Red Sorghum",2,3,1,2,1,2,NA,2,NA,1,1,NA,bags,"winnow, sort",2,1,-6.181982061,36.71107343,Vihingo,Pandambili
+23/05/19,23,5,2019,23,3,12,1835,5,1914,8,NA,2,"Sunflower, Red Sorghum",2,3,1,2,1,2,NA,2,NA,1,1,NA,bags,NA,2,1,-6.181982061,36.71107343,Vihingo,Pandambili
+23/05/19,23,5,2019,23,4,12,1836,5,1914,8,NA,2,"Red Sorghum, Cowpea, Sunflower",3,3,1,2,1,2,NA,1,2,1,1,NA,bags,"winnow, sort",1,1,-6.181982061,36.71107343,Vihingo,Pandambili
+23/05/19,23,5,2019,24,1,2,1904,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",2,2,NA,1,1,1,2,NA,floor,"winnow, sort",2,0,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,24,2,1,1901,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,2,2,1,1,2,1,1,2,NA,plastic_container,"winnow, sort",2,1,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,24,3,1,1901,5,1914,8,NA,1,NA,0,3,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,24,4,1,1901,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,24,5,12,1836,5,1914,8,NA,2,Sunflower,1,3,1,2,2,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,24,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,"winnow, sort",1,1,-6.182004,36.7103391,Vihingo,Pandambili
+23/05/19,23,5,2019,25,1,12,1835,5,1914,8,NA,2,"Sorghum, Sunflower",2,3,1,2,2,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.1813711,36.5266966,Msingisa,Sagara
+23/05/19,23,5,2019,26,1,1,1901,5,1914,"8, 9",Ndogo,2,Sunflower,1,1,1,"1, 2",2,2,NA,2,NA,1,2,NA,plastic_container,"winnow, sort",2,1,-6.184373167,36.53147305,Msingisa,Sagara
+23/05/19,23,5,2019,26,2,NA,NA,5,1914,"8, 9",Nyepesi,1,NA,0,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.184373167,36.53147305,Msingisa,Sagara
+23/05/19,23,5,2019,27,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,"winnow, sort",2,0,-6.17966947,36.5280649,Msingisa,Sagara
+23/05/19,23,5,2019,27,2,12,1835,5,1915,"8, 9",Ndogo,2,Groundnut,1,3,1,2,1,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-6.17966947,36.5280649,Msingisa,Sagara
+23/05/19,23,5,2019,27,3,1,1902,5,1914,8,NA,1,NA,0,3,1,2,3,1,1,1,1,1,2,NA,bags,none,4,1,-6.17966947,36.5280649,Msingisa,Sagara
+23/05/19,23,5,2019,28,1,12,1836,5,1914,8,NA,2,Sunflower,1,3,1,"2, 3",3,1,2,1,2,2,2,NA,bags,"winnow, sort",2,1,-6.1758314,36.4748331,Mautya,Ugogoni
+23/05/19,23,5,2019,28,2,12,1836,4,1912,8,NA,1,NA,0,3,1,2,1,1,1,1,1,1,2,NA,NA,NA,4,0,-6.1758314,36.4748331,Mautya,Ugogoni
+23/05/19,23,5,2019,28,3,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,2,1,2,NA,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",1,1,-6.1758314,36.4748331,Mautya,Ugogoni
+23/05/19,23,5,2019,28,4,1,1901,5,1913,8,NA,2,Sunflower,1,3,1,"2, 3",2,2,NA,1,1,3,1,NA,bags,"winnow, sort",2,1,-6.1758314,36.4748331,Mautya,Ugogoni
+23/05/19,23,5,2019,28,5,11,1831,3,1907,NA,NA,1,NA,0,3,2,NA,3,1,1,1,1,2,1,NA,bags,sort,2,1,-6.1758314,36.4748331,Mautya,Ugogoni
+24/05/19,24,5,2019,29,1,12,1834,5,1914,8,NA,2,Pigeon Pea,1,3,1,2,1,2,NA,1,1,1,2,NA,NA,winnow,2,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,29,2,1,1901,5,1914,8,NA,2,Sorghum,1,1,1,2,1,1,1,2,1,1,1,NA,bags,"winnow, sort",2,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,29,3,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,2,3,1,1,1,1,3,2,NA,bags,"winnow, sort",2,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,29,4,1,1901,5,1914,8,NA,2,Pigeon Pea,1,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,29,5,12,1836,5,1915,8,NA,2,Sorghum,1,3,1,2,2,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,29,6,12,1835,5,1915,8,NA,2,"Sunflower, Sorghum",2,3,1,"2, 3",1,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-5.9958849,36.5506109,Ndalibo,Mtanana
+24/05/19,24,5,2019,30,1,12,1834,5,1915,"8, 9",Ndogo,2,Sunflower,1,3,1,NA,3,1,1,1,1,1,5,None,bags,"winnow, sort",1,1,-5.996364115,36.55156649,Ndalibo,Mtanana
+24/05/19,24,5,2019,30,2,12,1834,5,1914,"8, 9",Ndogo,2,Sunflower,1,3,1,2,3,1,1,1,1,1,1,NA,bags,none,2,1,-5.996364115,36.55156649,Ndalibo,Mtanana
+24/05/19,24,5,2019,30,3,12,1836,5,1914,"8, 99",NA,1,NA,0,3,1,2,1,2,NA,2,NA,3,1,NA,bags,"winnow, sort",2,1,-5.996364115,36.55156649,Ndalibo,Mtanana
+24/05/19,24,5,2019,31,1,1,1901,5,1914,NA,Alinunua kwenye maduka ya pembejeo,2,Sunflower,1,3,1,"2, 3",3,1,2,1,1,2,2,NA,bags,"winnow, sort",3,1,-5.894315,36.4501945,Songambele B,Hogoro
+24/05/19,24,5,2019,32,1,12,1834,3,1909,"8, 9",Kubwa,1,NA,0,3,1,2,1,2,NA,1,2,1,5,No drying. Already dry,bags,none,2,1,-5.885156935,36.45024052,Songambele B,Hogoro
+24/05/19,24,5,19,33,1,12,1836,5,1914,"8, 9",Kati,2,"Sunflower, Pigeon Pea",2,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-5.887778798,36.44982697,Songambele B,Hogoro
+24/05/19,24,5,19,34,1,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-5.9543233,36.4510816,Hogoro,Hogoro
+24/05/19,24,5,19,35,1,1,1901,5,1913,9,Bought neighbors,2,Sorghum,1,3,1,2,3,1,1,1,1,1,2,NA,plastic_container,"winnow, sort",2,1,-5.944333246,36.44962642,Hogoro,Hogoro
+24/05/19,24,5,19,35,2,1,1902,5,1914,"8, 9",Ceki,2,"Red Sorghum, Sorghum, Groundnut, Chickpea",4,3,1,"2, 3",3,1,1,1,1,1,1,NA,bags,"winnow, sort",4,1,-5.944333246,36.44962642,Hogoro,Hogoro
+24/05/19,24,5,19,35,3,1,NA,5,1913,"8, 9",Ndogo,2,"Sorghum, Pigeon Pea",2,3,1,2,3,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-5.944333246,36.44962642,Hogoro,Hogoro
+25/05/19,25,5,19,36,1,11,1833,5,1914,8,NA,1,NA,0,3,1,2,2,1,1,1,1,2,1,NA,bags,"winnow, sort",2,1,-6.1519948,36.3398938,Manungu,Sejeli
+25/05/19,25,5,19,36,2,12,1834,5,1914,8,NA,2,"Sunflower, Groundnut",2,3,1,"2, 3",3,1,1,1,1,2,"1, 5",Nje,bags,winnow,2,1,-6.1519948,36.3398938,Manungu,Sejeli
+25/05/19,25,5,19,36,3,10,1830,5,1913,8,NA,1,NA,0,3,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",3,1,-6.1519948,36.3398938,Manungu,Sejeli
+25/05/19,25,5,19,36,4,12,1835,3,1907,8,NA,1,NA,0,3,1,"2, 3",2,1,2,1,2,2,1,NA,baskets,"winnow, sort",3,1,-6.1519948,36.3398938,Manungu,Sejeli
+25/05/19,25,5,19,36,5,12,1836,4,1911,8,NA,2,Groundnut,1,3,1,"2, 3",1,1,1,1,1,2,1,NA,bags,none,1,1,-6.1519948,36.3398938,Manungu,Sejeli
+25/05/19,25,5,19,37,1,12,1836,5,1915,8,NA,1,NA,0,3,1,2,3,2,NA,1,2,1,2,NA,bags,"winnow, sort",2,1,-6.157722475,36.34226754,Manungu,Sejeli
+25/05/19,25,5,19,37,2,1,1902,5,1914,8,NA,2,Sunflower,1,3,1,1,2,1,1,1,1,2,5,None,bags,"winnow, sort",2,1,-6.157722475,36.34226754,Manungu,Sejeli
+25/05/19,25,5,19,37,3,1,1901,4,1911,8,NA,1,NA,0,3,1,2,3,1,1,1,1,2,5,None,bags,NA,2,1,-6.157722475,36.34226754,Manungu,Sejeli
+25/05/19,25,5,19,38,1,12,1835,5,1915,9,Fupi,1,NA,0,3,1,2,2,2,NA,2,NA,1,2,NA,bags,"winnow, sort",2,1,-6.157061746,36.34285955,Manungu,Sejeli
+25/05/19,25,5,19,38,2,12,1835,5,1915,8,NA,2,Sorghum,1,3,1,2,3,1,1,2,NA,1,2,NA,NA,NA,1,1,-6.157061746,36.34285955,Manungu,Sejeli
+25/05/19,25,5,19,38,3,12,NA,5,1915,8,NA,2,Sorghum,1,3,1,"1, 2, 3",3,2,NA,2,NA,1,2,NA,bags,"winnow, sort",2,1,-6.157061746,36.34285955,Manungu,Sejeli
+25/05/19,25,5,19,39,1,12,1836,5,1913,8,NA,2,"Sorghum, Groundnut, Pigeon Pea, Cowpea, Chickpea",5,3,1,"2, 3",2,1,1,2,NA,2,"1, 5",Nje juani,NA,NA,1,1,-6.2104264,36.4145838,Mlanga,Kongwa Urban
+25/05/19,25,5,19,39,2,12,1836,5,1914,NA,NA,2,Sunflower,1,3,1,"2, 3",2,1,1,1,1,1,5,Mkeka,bags,"winnow, sort",2,1,-6.2104264,36.4145838,Mlanga,Kongwa Urban
+25/05/19,25,5,19,39,3,1,1901,5,1914,8,NA,1,NA,0,3,1,"2, 3",3,1,1,2,NA,3,2,NA,NA,NA,1,1,-6.2104264,36.4145838,Mlanga,Kongwa Urban
+25/05/19,25,5,19,39,4,1,1902,5,1915,8,NA,2,"Sunflower, Groundnut, Sorghum",3,3,1,2,3,1,1,1,1,3,5,Mkeka,bags,"winnow, sort",1,1,-6.2104264,36.4145838,Mlanga,Kongwa Urban
+25/05/19,25,5,19,40,1,12,1836,4,1912,8,NA,2,Cowpea,1,3,1,"2, 3",2,1,2,1,1,1,2,NA,bags,"winnow, sort",3,1,-6.221348,36.468769,Ibwaga,Ugogoni
+25/05/19,25,5,19,40,2,12,1836,5,1915,8,NA,1,NA,0,3,1,2,1,1,1,1,1,1,2,NA,none,sort,3,1,-6.221348,36.468769,Ibwaga,Ugogoni
+25/05/19,25,5,19,40,3,12,1836,5,1915,8,NA,2,"Cowpea, Sorghum",2,3,1,"2, 3",3,2,NA,1,1,2,2,NA,bags,"winnow, sort",1,1,-6.221348,36.468769,Ibwaga,Ugogoni
+25/05/19,25,5,19,40,4,12,1836,5,1914,8,NA,2,Sorghum,1,3,1,"1, 2",2,1,NA,1,NA,NA,3,NA,bags,"winnow, sort",1,1,-6.221348,36.468769,Ibwaga,Ugogoni
+25/05/19,25,5,19,41,1,12,1836,5,1915,"8, 9",Mwakibalu,1,NA,0,3,1,2,3,2,NA,1,2,1,5,None,baskets,"winnow, sort",4,1,-6.226077018,36.47655225,Ibwaga,Ugogoni
+25/05/19,25,5,19,41,2,12,1834,5,1915,8,NA,1,NA,0,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-6.226077018,36.47655225,Ibwaga,Ugogoni
+27/05/19,27,5,19,42,1,12,1836,5,1915,NA,Hakumbuki jina,2,Sunflower,1,3,1,3,2,1,1,1,1,3,2,NA,bags,"winnow, sort",2,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,42,2,12,1834,5,1915,8,NA,2,Sorghum,1,3,1,"2, 3",2,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,42,3,1,1901,5,1914,8,NA,1,NA,0,3,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,42,4,1,1901,5,1915,8,NA,1,NA,0,3,1,3,3,1,1,2,NA,1,2,NA,bags,"winnow, sort",2,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,42,5,12,1836,5,1914,8,NA,2,"Pumpkin, Sunflower",2,3,1,"2, 3",2,1,1,2,NA,2,1,NA,metal_drum,"winnow, sort",1,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,42,6,1,1901,5,1915,"2, 9",Purchased,1,NA,0,3,1,2,3,1,1,1,1,3,2,NA,plastic_container,"winnow, sort",2,1,-5.6110099,36.3708978,Chitego,Zoissa
+27/05/19,27,5,19,43,1,12,1836,5,1914,8,NA,2,"Sunflower, Groundnut, Sorghum",3,3,1,"2, 3",3,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.6106736,36.3706352,Chitego,Zoissa
+27/05/19,27,5,19,43,2,12,1836,5,1914,8,NA,2,Watermelon,1,3,1,"2, 3",2,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-5.6106736,36.3706352,Chitego,Zoissa
+27/05/19,27,5,19,43,3,12,1836,5,1914,8,NA,2,"Groundnut, Chickpea",1,3,1,"2, 3",2,1,1,1,1,3,1,NA,granary,"winnow, sort",1,1,-5.6106736,36.3706352,Chitego,Zoissa
+27/05/19,27,5,19,43,4,12,1836,5,1914,8,NA,2,"Sunflower, Sorghum",2,3,1,"2, 3",2,1,1,1,1,1,2,NA,bags,NA,2,1,-5.6106736,36.3706352,Chitego,Zoissa
+27/05/19,27,5,19,44,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,"winnow, sort",2,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,2,12,1835,5,1915,8,NA,1,NA,0,3,1,2,3,1,1,1,1,2,1,NA,bags,"winnow, sort",1,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,3,12,1836,5,1915,8,NA,2,"Sunflower, Groundnut",0,3,1,2,3,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,4,12,1835,5,1913,"2, 9",Bought last year. Stored,1,NA,0,1,1,2,2,1,1,2,NA,1,2,NA,bags,"winnow, sort",2,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,5,11,1831,5,1915,"8, 2",NA,1,NA,0,3,1,2,3,1,1,1,1,2,5,None,bags,"winnow, sort",2,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,6,12,1836,5,1915,8,NA,1,NA,0,3,1,2,2,1,1,1,1,1,5,None,bags,"winnow, sort",1,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,44,7,12,1835,4,1912,"2, 9",Purchased,2,Sunflower,1,3,1,2,1,1,1,1,1,2,5,Kibanda,plastic_container,"winnow, sort",2,1,-5.611515018,36.37437923,Chitego,Zoissa
+27/05/19,27,5,19,45,1,12,1834,5,1914,8,NA,2,"Pigeon Pea, Sunflower, Cowpea",3,3,1,2,3,1,1,1,1,3,2,NA,bags,"winnow, sort",2,1,-5.686680515,36.40420352,Zoissa,Zoissa
+27/05/19,27,5,19,45,2,12,1836,5,1915,"5, 8",NA,1,NA,0,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.686680515,36.40420352,Zoissa,Zoissa
+27/05/19,27,5,19,46,1,12,1836,5,1915,8,NA,2,"Sunflower, Sorghum",2,3,1,3,2,1,1,1,1,1,1,NA,bags,"winnow, sort",1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,2,1,1901,5,1915,8,NA,2,"Sunflower, Sorghum",2,3,1,2,3,1,1,1,1,1,2,NA,"bags, plastic_container","winnow, sort",1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,3,12,1835,5,1915,8,NA,2,"Groundnut, Sunflower",2,3,1,3,3,1,1,1,1,2,5,Hayajakaushwa.,bags,"winnow, sort",1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,4,12,1835,5,1915,8,NA,2,Sunflower,1,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,5,12,1836,5,1915,8,NA,2,"Sorghum, Pumpkin, Sunflower",3,3,1,2,2,1,1,1,1,2,5,Alivuna na kusaga. Yalikaukia shambani,plastic_container,"winnow, sort",1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,6,12,1836,5,1914,8,NA,2,"Sunflower, Sorghum",2,3,1,3,3,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,46,7,12,1836,5,1915,8,NA,2,"Pearl Millet, Sunflower, Sorghum",3,3,1,3,3,1,1,1,1,2,5,Yalikaukia shambani,ground,winnow,1,1,-5.6867273,36.4055678,Zoissa,Zoissa
+27/05/19,27,5,19,47,1,12,1835,5,1913,8,NA,2,Sunflower,1,3,1,2,3,1,1,2,NA,1,1,NA,bags,none,2,1,-5.7106527,36.3623104,Leganga,Zoissa
+27/05/19,27,5,19,47,2,12,1836,5,1914,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,granary,"winnow, sort",2,1,-5.7106527,36.3623104,Leganga,Zoissa
+27/05/19,27,5,19,47,3,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,"2, 3",2,1,1,1,1,3,2,NA,bags,"winnow, sort",3,1,-5.7106527,36.3623104,Leganga,Zoissa
+27/05/19,27,5,19,48,1,12,1834,5,1915,9,Purchased,1,NA,0,3,1,2,3,1,1,2,NA,1,2,NA,bags,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,2,1,1903,5,1915,8,NA,2,NA,NA,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,3,1,1902,5,1914,8,NA,1,NA,0,3,1,2,3,1,1,1,1,1,1,NA,plastic_container,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,4,1,1902,4,1911,8,NA,1,NA,0,3,1,2,2,2,NA,1,1,1,2,NA,plastic_container,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,5,1,1901,5,1915,8,NA,2,Groundnut,1,3,1,2,2,1,1,1,1,1,1,NA,NA,NA,1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,6,12,1836,5,1915,"8, 9",Fupi,2,Sunflower,1,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,7,12,1836,5,1915,9,Purchased local,2,"Sunflower, Sorghum",2,3,1,2,2,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.706715,36.368818,Leganga,Zoissa
+27/05/19,27,5,19,48,8,1,1901,5,1915,8,NA,1,NA,0,3,1,2,3,1,1,2,NA,1,2,NA,bags,winnow,1,1,-5.706715,36.368818,Leganga,Zoissa
+28/05/19,28,5,19,49,1,11,1833,3,1909,8,NA,2,"Groundnut, Cowpea, Sunflower",3,3,1,"2, 3",2,2,NA,1,1,1,2,NA,NA,NA,2,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,2,1,1903,5,1915,8,NA,1,NA,0,3,1,2,1,1,1,2,NA,1,2,NA,plastic_container,"winnow, sort",1,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,3,1,1901,5,1914,8,NA,2,"Sunflower, Groundnut",2,3,1,2,2,1,1,1,1,1,2,NA,NA,NA,2,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,4,2,1904,5,1915,8,NA,2,Sunflower,1,3,1,"2, 3",1,1,1,2,NA,1,2,NA,bags,"winnow, sort",1,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,5,1,1901,5,1915,8,NA,2,"Groundnut, Sunflower",2,3,1,"2, 3",2,2,NA,1,1,1,2,NA,NA,NA,2,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,6,1,1901,5,1913,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",1,1,1,1,1,1,1,NA,plastic_container,"winnow, sort",2,1,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,49,7,12,1836,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",2,1,1,2,NA,1,5,Mkeka,bags,"winnow, sort",4,0,-6.0797462,36.5880899,Mtanana B,Mtanana
+28/05/19,28,5,19,50,1,1,1901,5,1915,9,Purchased local. Nyepesi,2,Sunflower,1,3,1,2,3,1,1,1,1,1,2,NA,none,"winnow, sort",4,0,-6.078636615,36.58824897,Mtanana B,Mtanana
+28/05/19,28,5,19,50,2,12,1835,4,1911,9,Purchased la dawa,2,Mung Bean,1,3,1,2,1,1,2,1,2,2,2,NA,none,"winnow, sort",2,1,-6.078636615,36.58824897,Mtanana B,Mtanana
+28/05/19,28,5,19,50,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,sort,2,1,-6.078636615,36.58824897,Mtanana B,Mtanana
+28/05/19,28,5,19,50,4,12,1836,5,1914,"8, 9",Purchased 3 years ago,2,"Sunflower, Pigeon Pea",2,3,1,2,3,1,1,1,1,1,5,None,bags,NA,2,1,-6.078636615,36.58824897,Mtanana B,Mtanana
+28/05/19,28,5,19,50,5,12,1835,5,1915,4,Purchased 2 years ago,1,NA,0,3,1,2,3,1,1,1,1,3,2,NA,none,winnow,2,1,-6.078636615,36.58824897,Mtanana B,Mtanana
+28/05/19,28,5,19,51,1,12,1834,5,1913,8,NA,2,"Groundnut, Pigeon Pea",2,3,1,2,2,2,NA,2,NA,2,1,NA,none,"winnow, sort",4,0,-6.14098113,36.40762872,Machenje,Ugogoni
+28/05/19,28,5,19,51,2,12,1835,5,1915,9,Pembejeo. Doesnt know name,1,NA,0,3,1,2,1,1,1,1,2,1,2,NA,none,"winnow, sort",2,1,-6.14098113,36.40762872,Machenje,Ugogoni
+28/05/19,28,5,19,51,3,1,1901,5,1913,8,NA,2,Sunflower,1,3,1,2,3,1,1,1,1,2,1,NA,none,"winnow, sort",2,1,-6.14098113,36.40762872,Machenje,Ugogoni
+28/05/19,28,5,19,52,1,12,1836,5,1914,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,3,2,NA,bags,"winnow, sort",4,1,-6.1400981,36.4123213,Machenje,Ugogoni
+28/05/19,28,5,19,53,1,1,1901,5,1915,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,bags,NA,2,1,-6.144285,36.405116,Machenje,Ugogoni
+28/05/19,28,5,19,53,2,12,1835,5,1915,8,NA,2,Sorghum,1,3,1,"2, 3",1,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.144285,36.405116,Machenje,Ugogoni
+28/05/19,28,5,19,53,3,12,1835,5,1915,8,NA,2,Cowpea,1,3,1,"2, 3",1,1,1,1,1,2,1,NA,baskets,"winnow, sort",2,1,-6.144285,36.405116,Machenje,Ugogoni
+28/05/19,28,5,19,54,1,12,1834,5,1915,8,NA,1,NA,0,3,1,2,2,2,NA,1,1,1,5,None,NA,NA,1,1,-6.1447592,36.4045987,Machenje,Ugogoni
+28/05/19,28,5,19,54,2,12,1836,5,1914,8,NA,2,Groundnut,1,3,1,2,3,1,1,1,1,3,2,NA,plastic_container,"winnow, sort",2,1,-6.1447592,36.4045987,Machenje,Ugogoni
+28/05/19,28,5,19,54,3,12,1834,4,1910,8,NA,1,NA,0,3,1,"1, 2",1,2,NA,1,1,3,2,NA,NA,NA,2,1,-6.1447592,36.4045987,Machenje,Ugogoni
+28/05/19,28,5,19,54,4,1,1901,5,1913,8,NA,2,"Sunflower, Sorghum",2,1,1,"2, 3",2,1,1,1,1,2,1,NA,bags,"winnow, sort",1,1,-6.1447592,36.4045987,Machenje,Ugogoni
+29/05/19,29,5,19,55,1,12,1834,5,1914,8,NA,1,NA,0,3,1,3,3,1,1,1,1,1,2,NA,bags,"winnow, sort",4,1,-5.8889119,36.6158901,Chilanjilizi,Njoge
+29/05/19,29,5,19,55,2,1,1903,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",1,1,1,1,1,1,2,NA,bags,"winnow, sort",NA,1,-5.8889119,36.6158901,Chilanjilizi,Njoge
+29/05/19,29,5,19,55,3,12,1835,5,1915,8,NA,2,"Sorghum, Pearl Millet",2,3,1,"2, 3",2,2,NA,1,1,1,1,NA,bags,winnow,1,1,-5.8889119,36.6158901,Chilanjilizi,Njoge
+29/05/19,29,5,19,55,4,12,1835,5,1915,8,NA,2,"Sorghum, Pearl Millet, Sunflower",3,3,1,"2, 3",1,2,NA,1,1,1,2,NA,NA,NA,3,1,-5.8889119,36.6158901,Chilanjilizi,Njoge
+29/05/19,29,5,19,56,1,12,1834,5,1913,8,NA,2,"Sorghum, Groundnut, Cowpea, Finger Millet, Sunflower",5,3,1,2,1,1,1,1,1,3,2,NA,bags,sort,NA,1,-5.888490397,36.61526849,Chilanjilizi,Njoge
+29/05/19,29,5,19,57,1,12,1834,5,1915,8,NA,2,"Chickpea, Groundnut, Sunflower, Sorghum",4,3,1,"2, 3",2,2,NA,1,1,1,2,NA,none,winnow,1,1,-5.9393264,36.6304593,Ngomai,Njoge
+29/05/19,29,5,19,57,2,12,1834,4,1912,8,NA,2,Sorghum,1,3,NA,NA,NA,1,1,1,1,3,2,NA,bags,winnow,3,0,-5.9393264,36.6304593,Ngomai,Njoge
+29/05/19,29,5,19,57,3,NA,NA,NA,NA,8,NA,2,Sorghum,1,3,1,"2, 3",2,2,NA,1,1,1,2,NA,none,"winnow, sort",1,1,-5.9393264,36.6304593,Ngomai,Njoge
+29/05/19,29,5,19,58,1,12,1835,4,1912,8,NA,2,Groundnut,1,3,1,"1, 2",3,1,1,1,1,1,1,NA,bags,winnow,4,1,-5.936183025,36.62928749,Ngomai,Njoge
+29/05/19,29,5,19,58,2,1,1901,5,1915,9,Ndogo. Purchased at pembejeo,2,Sunflower,1,3,1,2,1,1,1,1,1,3,2,NA,granary,"winnow, sort",1,1,-5.936183025,36.62928749,Ngomai,Njoge
+29/05/19,29,5,19,58,3,12,1834,5,1914,8,NA,2,Sunflower,1,3,1,2,3,1,1,1,1,1,5,None,bags,"winnow, sort",4,0,-5.936183025,36.62928749,Ngomai,Njoge
+29/05/19,29,5,19,58,4,12,1835,5,1913,8,NA,2,"Sunflower, Mung Bean, Watermelon, Cowpea, Pigeon Pea, Cucumber",6,3,1,2,3,1,2,2,NA,3,2,NA,plastic_container,"winnow, sort",1,1,-5.936183025,36.62928749,Ngomai,Njoge
+29/05/19,29,5,19,59,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,"winnow, sort",1,1,-5.947234971,36.63571197,Ngomai,Njoge
+29/05/19,29,5,19,59,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"winnow, sort",4,1,-5.947234971,36.63571197,Ngomai,Njoge
+29/05/19,29,5,19,60,1,11,1832,5,1915,8,NA,2,Sunflower,1,3,1,"2, 3",2,2,NA,1,1,3,2,NA,bags,sort,2,1,-6.024837,36.6410442,Manyata,Njoge
+29/05/19,29,5,19,60,2,12,1834,5,1914,8,NA,2,Sorghum,1,3,1,3,2,1,1,1,1,1,2,NA,bags,NA,4,1,-6.024837,36.6410442,Manyata,Njoge
+29/05/19,29,5,19,60,3,11,1833,5,1915,8,NA,2,Pigeon Pea,1,3,2,NA,1,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",2,1,-6.024837,36.6410442,Manyata,Njoge
+29/05/19,29,5,19,61,1,12,1836,5,1915,9,Purchased from neighbor,2,Sorghum,1,3,1,2,3,2,NA,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.020961807,36.63482116,Manyata,Njoge
+29/05/19,29,5,19,61,2,12,1835,5,1915,8,NA,2,"Pigeon Pea, Sorghum",2,3,1,2,3,1,1,1,1,1,5,None,NA,NA,2,1,-6.020961807,36.63482116,Manyata,Njoge
+29/05/19,29,5,19,61,3,12,1835,5,1913,8,NA,2,"Sunflower, Cowpea",2,3,1,2,3,2,NA,1,2,3,2,NA,bags,none,2,1,-6.020961807,36.63482116,Manyata,Njoge
+29/05/19,29,5,19,62,1,12,1834,5,1915,9,Purchased from neighbor,2,"Sunflower, Groundnut",2,3,1,2,3,2,NA,2,NA,3,2,NA,NA,NA,2,1,-6.022155077,36.63641204,Manyata,Njoge
+29/05/19,29,5,19,62,2,12,1836,4,1911,8,NA,1,NA,0,3,1,2,1,2,NA,1,2,2,2,NA,plastic_container,"winnow, sort",4,1,-6.022155077,36.63641204,Manyata,Njoge
+30/05/19,30,5,19,63,1,12,1835,5,1914,"8, 9",Nyeupe na nyekundu,1,NA,0,3,1,2,1,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,2,12,1836,5,1915,8,NA,2,Sunflower,1,3,1,2,1,1,1,2,NA,1,2,NA,NA,NA,2,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,3,12,1835,5,1915,8,NA,2,Sunflower,1,3,1,2,3,2,NA,2,NA,1,1,NA,bags,none,2,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,4,12,1834,4,1910,8,NA,2,Sunflower,1,3,1,2,1,2,NA,1,1,1,1,NA,bags,"winnow, sort",2,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,5,12,1836,5,1915,8,NA,2,Pigeon Pea,1,3,1,2,1,2,NA,2,NA,1,1,NA,bags,"winnow, sort",4,0,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,6,12,1836,5,1915,8,NA,2,Sunflower,1,3,1,2,3,1,2,2,NA,2,2,NA,NA,NA,1,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,"winnow, sort",4,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,63,8,1,1902,5,1915,8,NA,1,NA,0,3,1,2,3,1,1,2,NA,1,1,NA,bags,"winnow, sort",1,1,-5.967133674,36.89014845,Kiteto,Pandambili
+30/05/19,30,5,19,64,1,12,1834,5,1915,8,NA,1,NA,0,3,1,"2, 3",2,2,NA,1,1,2,1,NA,bags,"winnow, sort",2,1,-5.9662205,36.8905472,Kiteto,Pandambili
+30/05/19,30,5,19,64,2,11,1833,3,1909,8,NA,1,NA,0,3,1,3,2,1,1,1,1,2,2,NA,bags,sort,2,1,-5.9662205,36.8905472,Kiteto,Pandambili
+30/05/19,30,5,19,64,3,12,1835,5,1913,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",3,1,1,1,1,2,2,NA,bags,NA,2,1,-5.9662205,36.8905472,Kiteto,Pandambili
+30/05/19,30,5,19,64,4,12,1834,5,1914,8,NA,2,"Sunflower, Pigeon Pea",2,3,2,NA,3,1,1,1,1,2,2,NA,NA,"winnow, sort",2,1,-5.9662205,36.8905472,Kiteto,Pandambili
+30/05/19,30,5,19,64,5,1,1901,5,1914,8,NA,2,Pigeon Pea,1,3,1,3,2,1,1,1,1,1,1,NA,bags,winnow,2,1,-5.9662205,36.8905472,Kiteto,Pandambili
+30/05/19,30,5,19,65,1,12,1836,5,1915,"8, 9",Ndogo,2,"Sunflower, Pigeon Pea, Groundnut",3,3,1,2,2,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.04778617,36.78725058,Lenjulu,Pandambili
+30/05/19,30,5,19,65,2,12,1835,4,1912,"8, 9",Ndogo,2,"Sunflower, Pigeon Pea",2,3,1,2,3,1,1,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.04778617,36.78725058,Lenjulu,Pandambili
+30/05/19,30,5,19,66,1,12,1835,4,1912,"8, 9",Ndogo,2,Sunflower,1,3,1,2,3,1,1,1,1,3,1,NA,NA,NA,2,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,66,2,12,1835,4,1912,"8, 9",Kati,1,NA,0,3,1,2,3,2,NA,2,NA,1,1,NA,bags,"winnow, sort",2,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,66,3,12,1834,5,1915,9,Purchased. Ndogo,2,Sunflower,1,3,1,2,3,1,1,1,1,1,1,NA,NA,NA,1,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,66,4,12,1836,4,1911,8,Kubwa,2,Pigeon Pea,1,3,1,2,3,1,1,2,NA,3,1,NA,bags,"winnow, sort",2,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,66,5,12,1834,5,1915,9,Purchased neighbor. Nyepesi,2,Sunflower,1,3,1,2,3,1,1,1,1,1,1,NA,none,winnow,2,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,66,6,1,1901,5,1915,8,NA,1,NA,0,3,1,2,2,2,NA,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.048146629,36.78746963,Lenjulu,Pandambili
+30/05/19,30,5,19,67,1,1,1901,5,1915,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,3,2,1,1,1,1,1,1,NA,bags,NA,2,1,-6.0453118,36.7907675,Lenjulu,Pandambili
+30/05/19,30,5,19,68,1,1,1901,5,1915,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,3,3,1,1,1,1,1,1,NA,bags,"winnow, sort",2,1,-6.0477649,36.7899711,Lenjulu,Pandambili
+30/05/19,30,5,19,68,2,12,1836,5,1914,8,NA,1,NA,0,3,1,"2, 3",2,1,1,1,1,1,2,NA,none,"winnow, sort",2,1,-6.0477649,36.7899711,Lenjulu,Pandambili
+30/05/19,30,5,19,68,3,1,1901,5,1914,8,NA,2,"Sunflower, Sorghum",2,3,1,2,2,1,1,1,1,1,1,NA,bags,winnow,2,1,-6.0477649,36.7899711,Lenjulu,Pandambili
+30/05/19,30,5,19,68,4,1,1901,5,1913,8,NA,2,"Sunflower, Cowpea, Pigeon Pea",3,3,1,2,1,1,1,1,1,1,2,NA,bags,winnow,2,1,-6.0477649,36.7899711,Lenjulu,Pandambili
+31/05/19,31,5,19,69,1,12,1836,5,1915,8,NA,2,Cassava,1,3,1,2,3,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-5.751119756,36.54428807,Makawa,Mkoka
+31/05/19,31,5,19,70,1,12,1835,5,1915,8,NA,2,NA,NA,3,1,2,3,2,NA,2,NA,1,2,NA,none,"winnow, sort",2,1,-5.751140565,36.5436495,Makawa,Mkoka
+31/05/19,31,5,19,70,2,1,1902,5,1915,8,NA,2,Sunflower,1,3,1,2,2,2,NA,2,NA,1,1,NA,none,sort,2,1,-5.751140565,36.5436495,Makawa,Mkoka
+31/05/19,31,5,19,70,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,winnow,2,1,-5.751140565,36.5436495,Makawa,Mkoka
+31/05/19,31,5,19,70,4,1,1902,5,1915,"8, 5",NA,2,Pigeon Pea,1,3,1,"1, 2, 3",2,1,1,2,NA,1,1,NA,none,"winnow, sort",2,1,-5.751140565,36.5436495,Makawa,Mkoka
+31/05/19,31,5,19,70,5,2,1905,5,1915,9,Purchased from neighbor. Ndogo,2,"Sorghum, Sunflower",2,3,1,"2, 1",2,1,1,2,NA,1,1,NA,plastic_container,"winnow, sort",2,1,-5.751140565,36.5436495,Makawa,Mkoka
+31/05/19,31,5,19,71,1,1,1901,5,1913,8,NA,2,"Red Sorghum, Pigeon Pea",2,3,1,"2, 3",3,2,NA,1,1,1,2,NA,plastic_container,"winnow, sort",1,1,-5.7549426,36.5398929,Makawa,Mkoka
+31/05/19,31,5,19,71,2,12,1834,5,1915,8,NA,2,"Pigeon Pea, Cowpea, Sunflower",3,3,2,NA,2,1,1,1,1,1,2,NA,NA,NA,2,1,-5.7549426,36.5398929,Makawa,Mkoka
+31/05/19,31,5,19,72,1,12,1836,5,1915,8,NA,2,Sunflower,1,3,1,"2, 3",2,1,1,1,1,2,1,NA,bags,"winnow, sort",1,1,-5.755073,36.5393134,Makawa,Mkoka
+31/05/19,31,5,19,72,2,12,1835,5,1915,8,NA,2,"Sunflower, Sorghum",2,3,1,"2, 3",2,2,NA,1,1,1,5,Mkeka,NA,NA,1,1,-5.755073,36.5393134,Makawa,Mkoka
+31/05/19,31,5,19,72,3,12,1836,5,1915,8,NA,2,"Sorghum, Groundnut",2,3,1,"2, 3",1,1,1,1,1,3,2,NA,NA,NA,1,1,-5.755073,36.5393134,Makawa,Mkoka
+31/05/19,31,5,19,72,4,12,1834,5,1915,8,NA,2,Sorghum,1,3,1,"2, 3",2,2,NA,1,1,2,1,NA,bags,"winnow, sort",2,1,-5.755073,36.5393134,Makawa,Mkoka
+31/05/19,31,5,19,72,5,1,1902,5,1915,8,NA,2,Sunflower,1,3,1,"2, 3",1,2,NA,1,1,1,5,Mkeka,plastic_container,"winnow, sort",2,0,-5.755073,36.5393134,Makawa,Mkoka
+31/05/19,31,5,19,73,1,12,1834,5,1915,8,NA,2,"Sorghum, Sunflower",2,1,1,"2, 3",1,1,1,1,1,1,2,NA,bags,NA,4,0,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,2,12,1835,5,1915,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,bags,winnow,4,0,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,3,12,1834,5,1915,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,2,2,1,1,1,1,2,2,NA,bags,"winnow, sort",2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,4,12,1836,4,1911,8,NA,2,Pigeon Pea,1,3,1,3,2,1,1,1,2,1,1,NA,bags,winnow,4,0,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,5,12,1834,5,1915,8,NA,2,"Sorghum, Sunflower",2,3,1,2,1,2,NA,1,1,2,5,Yalivunwa yakiwa yamekauka,bags,"winnow, sort",2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,6,1,1901,5,1915,8,NA,2,Pigeon Pea,1,3,1,3,2,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,7,12,1835,5,1915,8,NA,2,"Sunflower, Pigeon Pea",2,1,1,2,3,1,1,1,1,2,5,Yalikaukia shambani.,NA,winnow,2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,8,1,1903,5,1915,8,NA,2,Groundnut,1,3,1,2,3,1,1,1,1,2,5,Yalikaukia shambani,NA,winnow,1,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,9,1,1901,5,1915,8,NA,2,"Groundnut, Sunflower",2,3,1,"2, 3",2,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,73,10,1,1903,5,1915,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,"2, 3",3,1,1,1,1,2,5,Yalikaukia shambani,NA,NA,2,1,-5.7773606,36.4599514,Mlanje,Mkoka
+31/05/19,31,5,19,74,1,1,1901,5,1913,9,Purchased from neighbor. Ndogo,2,Red Sorghum,1,3,1,2,3,2,NA,1,2,1,5,None,NA,NA,2,1,-5.778173582,36.45657054,Mlanje,Mkoka
+31/05/19,31,5,19,74,2,2,1905,5,1915,"8, 9",Pana,2,"Sunflower, Cowpea",2,3,1,"1, 2",1,1,1,2,NA,2,1,NA,bags,"winnow, sort",1,1,-5.778173582,36.45657054,Mlanje,Mkoka
+43471,1,6,2019,75,1,12,1836,4,1912,8,NA,2,"Pearl Millet, Sorghum",2,1,1,3,2,1,2,1,1,1,2,NA,NA,NA,1,1,-5.9959068,36.4450994,Chamae,Hogoro
+43471,1,6,2019,75,2,12,1835,5,1915,NA,NA,1,NA,0,2,1,"2, 3",1,2,NA,1,1,2,2,NA,bags,"winnow, sort",3,1,-5.9959068,36.4450994,Chamae,Hogoro
+43471,1,6,2019,75,3,1,1901,5,1915,NA,Ilinunuliwa katika maduka ya pembejeo.,1,NA,0,2,2,NA,NA,1,NA,NA,NA,3,2,NA,NA,NA,2,1,-5.9959068,36.4450994,Chamae,Hogoro
+43471,1,6,2019,75,4,12,1835,5,1914,8,NA,2,"Chickpea, Groundnut",2,3,1,"1, 3",1,2,NA,1,1,2,2,NA,bags,"winnow, sort",3,1,-5.9959068,36.4450994,Chamae,Hogoro
+43471,1,6,2019,75,5,1,1901,5,1915,8,NA,1,NA,0,3,1,"2, 3",3,2,NA,1,1,2,2,NA,NA,NA,1,1,-5.9959068,36.4450994,Chamae,Hogoro
+43471,1,6,2019,76,1,12,1834,4,1910,8,NA,2,Sorghum,1,3,1,2,1,2,NA,2,NA,1,2,NA,bags,none,1,1,-5.985670427,36.44823538,Chamae,Hogoro
+43471,1,6,2019,76,2,12,1836,4,1912,8,NA,1,NA,0,3,1,2,3,1,1,1,1,1,2,NA,none,"winnow, sort",1,1,-5.985670427,36.44823538,Chamae,Hogoro
+43471,1,6,2019,76,3,1,1901,5,1915,9,Purchased from neighbor. Fupi,2,Sunflower,1,1,1,"1, 2",2,1,1,2,NA,3,2,NA,none,"winnow, sort",1,1,-5.985670427,36.44823538,Chamae,Hogoro
+43471,1,6,2019,76,4,1,1901,5,1915,"8, 9",Ilonga mixture,1,NA,0,3,1,2,1,1,1,1,1,1,1,NA,none,"winnow, sort",1,1,-5.985670427,36.44823538,Chamae,Hogoro
+43530,3,6,2019,77,1,1,1901,6,1916,"8, 9",Mixture,2,Groundnut,1,3,1,2,2,2,NA,1,1,1,2,NA,NA,winnow,1,1,-5.962729178,36.35213442,Msunjilile,Sejeli
+43530,3,6,2019,78,1,1,NA,6,1916,8,NA,1,NA,0,3,1,2,3,1,1,1,1,1,5,None,none,"winnow, sort",1,1,-5.963008244,36.35259427,Msunjilile,Sejeli
+43530,3,6,2019,78,2,1,1902,6,1916,8,NA,2,Sunflower,1,3,1,2,2,2,NA,1,1,3,1,NA,none,"winnow, sort",1,1,-5.963008244,36.35259427,Msunjilile,Sejeli
+43530,3,6,2019,78,3,11,1831,5,1915,2,NA,1,NA,0,3,1,2,1,1,1,1,1,2,1,NA,bags,"winnow, sort",3,1,-5.963008244,36.35259427,Msunjilile,Sejeli
+43530,3,6,2019,79,1,12,1836,6,1916,8,NA,2,"Groundnut, Chickpea",2,3,1,3,2,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-5.9627259,36.3536599,Msunjilile,Sejeli
+43530,3,6,2019,79,2,1,1901,5,1913,8,NA,2,Sorghum,1,3,1,3,2,2,NA,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.9627259,36.3536599,Msunjilile,Sejeli
+43530,3,6,2019,79,3,1,1901,5,1913,8,NA,2,"Sorghum, Groundnut",2,1,1,"2, 3",2,1,1,1,1,1,2,NA,plastic_container,"winnow, sort",2,1,-5.9627259,36.3536599,Msunjilile,Sejeli
+43530,3,6,2019,79,4,1,1901,5,1914,8,NA,2,Sesame,1,3,1,"2, 3",3,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",1,1,-5.9627259,36.3536599,Msunjilile,Sejeli
+43561,4,6,2019,80,1,12,1836,5,1915,8,NA,2,"Sunflower, Groundnut",2,3,1,3,1,1,1,1,1,2,5,Yalikaukia shambani,plastic_container,"winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,2,12,1836,5,1915,NA,NA,2,Sunflower,1,3,1,2,1,2,NA,1,1,1,2,NA,NA,NA,4,0,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,3,1,1901,5,1913,8,NA,1,NA,0,3,1,"2, 3",3,2,NA,1,1,1,2,NA,bags,"winnow, sort",4,0,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,4,12,1836,5,NA,8,NA,2,"Sunflower, Pigeon Pea",2,3,1,3,3,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,5,1,1901,5,1915,8,NA,2,"Cowpea, Sunflower",2,3,1,3,1,2,NA,1,1,1,2,NA,bags,"winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,6,2,1904,6,1916,8,NA,2,Cowpea,1,3,1,2,1,2,NA,1,1,1,1,NA,bags,"winnow, sort",4,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,7,12,1836,5,1914,8,NA,2,"Sunflower, Sorghum",2,3,1,3,2,1,1,1,1,1,1,NA,"bags, insecticide","winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,8,12,1836,5,1915,8,NA,2,Sunflower,1,3,1,2,2,2,NA,1,2,1,2,NA,bags,"winnow, sort",4,0,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,9,1,1901,5,1915,8,NA,2,"Sorghum, Sunflower",2,3,1,2,1,2,NA,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,10,12,1834,6,1916,8,NA,2,"Sunflower, Cowpea, Sorghum",3,3,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,"bags, insecticide","winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,11,1,1901,5,1915,8,NA,2,"Sunflower, Cowpea, Sorghum",3,1,1,"2, 3",1,2,NA,1,1,1,2,NA,NA,NA,1,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,80,12,1,1901,5,1915,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,"tarp, inside","winnow, sort",2,1,-6.0842712,36.7331852,Pandambili A,Pandambili
+43561,4,6,2019,81,1,1,1903,6,1916,9,Purchased from neighbor,2,"Sunflower, Pigeon Pea",2,3,1,2,2,1,1,2,NA,1,2,NA,bags,"winnow, sort",2,1,-6.084796332,36.72727813,Pandambili A,Pandambili
+43561,4,6,2019,81,2,1,1901,6,1916,"8, 9",Kati,2,Sunflower,1,3,1,2,3,1,1,1,1,3,1,NA,NA,NA,2,1,-6.084796332,36.72727813,Pandambili A,Pandambili
+43561,4,6,2019,82,1,2,1906,5,1914,8,NA,2,"Sunflower, Groundnut",2,3,1,2,1,2,NA,2,NA,3,2,NA,bags,"winnow, sort",4,1,-6.084704075,36.73730341,Pandambili A,Pandambili
+43561,4,6,2019,82,2,12,1834,5,1914,8,NA,2,"Sunflower, Cowpea, Groundnut, Okra",4,1,1,2,3,2,NA,1,1,3,1,NA,bags,winnow,4,1,-6.084704075,36.73730341,Pandambili A,Pandambili
+43561,4,6,2019,82,3,12,1834,5,1914,9,Purchased at pembejeo. Rubango,1,NA,0,3,1,2,2,1,1,1,1,2,5,Small wooden elevated stand,none,"winnow, sort",4,1,-6.084704075,36.73730341,Pandambili A,Pandambili
+43561,4,6,2019,83,1,12,1836,5,1915,8,NA,2,Sorghum,1,3,1,2,1,2,NA,1,2,1,2,NA,bags,"winnow, sort",2,1,-6.2903496,36.7501695,Mlali,Mlali
+43561,4,6,2019,83,2,1,1901,6,1916,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",4,1,-6.2903496,36.7501695,Mlali,Mlali
+43561,4,6,2019,83,3,12,1836,5,1915,8,NA,2,"Sunflower, Sorghum",2,3,1,2,2,2,NA,1,1,1,2,NA,tarp,"winnow, sort",2,1,-6.2903496,36.7501695,Mlali,Mlali
+43561,4,6,2019,84,1,12,1836,6,1916,8,NA,2,Sunflower,1,3,1,2,2,1,1,1,1,1,2,NA,NA,NA,2,1,-6.295626091,36.74900492,Mlali,Mlali
+43561,4,6,2019,85,1,1,1901,6,1916,8,NA,2,"Pigeon Pea, Pumpkin, Cowpea, Chickpea, Sunflower",5,3,1,2,2,1,1,1,1,1,1,NA,NA,NA,2,1,-6.296016173,36.74818553,Mlali,Mlali
+43561,4,6,2019,86,1,12,1834,5,1913,8,NA,2,Sorghum,1,3,1,2,2,1,1,1,1,1,1,NA,bags,winnow,4,1,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,2,12,1836,5,1915,8,NA,2,Sunflower,1,3,1,2,2,1,1,2,NA,1,1,NA,bags,"winnow, sort",2,1,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,3,1,1901,6,1916,NA,NA,2,"Sunflower, Sorghum",2,3,1,2,2,1,2,1,2,2,2,NA,bags,"winnow, sort",2,1,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,4,1,1901,5,1914,8,NA,2,Sunflower,1,3,1,"2, 3",2,1,1,1,1,3,2,NA,bags,winnow,4,0,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,5,1,1901,6,1916,8,NA,2,Sunflower,1,3,1,3,1,1,2,1,2,1,2,NA,none,winnow,2,1,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,6,1,1901,6,1916,8,NA,1,NA,0,1,1,2,1,1,1,1,1,2,2,NA,bags,"winnow, sort",2,1,-6.1933585,36.6067343,Laikala,Sagara
+43561,4,6,2019,86,7,12,1836,6,1916,8,NA,2,Sunflower,1,3,1,2,1,1,1,1,1,1,2,NA,none,winnow,2,1,-6.1933585,36.6067343,Laikala,Sagara
+43622,6,6,2019,87,1,1,1901,6,1916,8,NA,2,"Groundnut, Cowpea, Sunflower",3,3,1,"2, 3",2,2,NA,1,1,1,1,NA,none,"winnow, sort",1,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,2,1,1901,6,1916,8,NA,2,"Sunflower, Sorghum",2,3,1,2,2,2,NA,1,2,3,2,NA,none,"winnow, sort",2,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,3,1,1901,6,1916,8,NA,2,NA,NA,3,1,2,1,1,1,1,1,2,5,Yalikaukia shambani,none,"winnow, sort",1,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,4,12,1835,6,1916,8,NA,2,Sorghum,1,3,1,2,1,1,1,1,1,1,2,NA,bags,"winnow, sort",1,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,5,1,1901,6,1916,8,NA,2,Sunflower,1,3,1,2,2,1,1,2,NA,1,2,NA,bags,"winnow, sort",2,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,6,1,1902,6,1916,8,NA,2,"Sunflower, Sorghum",2,3,1,2,2,1,1,2,NA,1,1,NA,bags,"winnow, sort",1,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,87,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bags,winnow,NA,1,-5.8151213,36.4312379,Mkoka,Mkoka
+43622,6,6,2019,88,1,1,1901,6,1916,NA,NA,2,"Groundnut, Sunflower",2,3,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,baskets,"winnow, sort",1,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,88,2,1,1901,6,1916,8,NA,2,"Sorghum, Groundnut, Sunflower",3,3,1,2,2,1,1,1,1,2,5,Yalikaukia shambani,bags,"winnow, sort",1,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,88,3,1,1901,6,1916,8,NA,2,Sunflower,1,3,1,"2, 3",1,2,NA,1,1,1,1,NA,NA,NA,2,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,88,4,12,1836,6,1916,8,NA,2,"Sunflower, Pumpkin",2,3,1,"2, 3",1,2,NA,1,1,1,1,NA,bags,"winnow, sort",2,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,88,5,1,1901,6,1916,8,NA,2,"Sorghum, Sunflower",2,3,1,2,3,2,NA,1,2,1,1,NA,NA,NA,2,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,88,6,12,1836,6,1916,8,NA,2,Sunflower,1,3,1,2,2,2,NA,1,1,1,1,NA,bags,"winnow, sort",2,1,-5.815855,36.431457,Mkoka,Mkoka
+43622,6,6,2019,89,1,12,1835,6,1916,"8, 9",Kubwa,2,"Pigeon Pea, Sunflower",2,3,1,2,1,1,1,1,1,1,5,None,NA,NA,2,1,-5.817955294,36.43162029,Mkoka,Mkoka
+43622,6,6,2019,89,2,12,1836,6,1916,"8, 9","Nyekundu, fupi",2,"Sunflower, Cowpea, Pigeon Pea",3,3,1,2,3,1,1,1,1,1,5,None,bags,"winnow, sort",2,1,-5.817955294,36.43162029,Mkoka,Mkoka
+43622,6,6,2019,89,3,1,1901,6,1916,8,NA,2,Sorghum,1,3,1,2,3,2,NA,2,NA,1,2,NA,NA,NA,1,1,-5.817955294,36.43162029,Mkoka,Mkoka
+43622,6,6,2019,89,4,12,1834,6,1916,9,Purchased from neighbor,2,"Chickpea, Groundnut",2,3,1,2,3,1,1,1,2,2,2,NA,bags,"winnow, sort",2,1,-5.817955294,36.43162029,Mkoka,Mkoka
+43622,6,6,2019,89,5,12,1836,5,1913,9,Purchased from neighbor,2,"Sunflower, Pigeon Pea",2,3,1,"1, 2",3,1,1,1,1,1,2,NA,NA,NA,2,1,-5.817955294,36.43162029,Mkoka,Mkoka
+43622,6,6,2019,90,1,12,1836,5,1913,"8, 9",Ndogo,2,Sunflower,1,3,1,2,3,2,NA,1,1,1,2,NA,bags,none,1,1,-5.818151,36.430894,Mkoka,Mkoka
